@@ -1,6 +1,6 @@
 ## Hi there👋! I’m Léo Baima  | Opa eai👋! Eu sou o Léo Baima 
 - 🔭 I’m currently working on <a href = "https://www.instagram.com/myprojectjr/">MyProjectJr<a/> as a Project Manager
-- 📖 I’m currently learning <b>React Native & React<b/>
+- 📖 I’m currently learning <b>NodeJS & ReactJS<b/>
 - 👨‍🎓 I’m currently studying Computer Science in UNIFOR(Universidade de Fortaleza)
  <div>
   <a href="https://github.com/LeoLBaima" />
