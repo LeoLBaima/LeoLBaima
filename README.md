@@ -1,5 +1,5 @@
 ## Hi there👋! I’m Léo Baima 
-- 🔭 I’m currently working on <a href = "https://www.linkedin.com/company/mercadapp-soluções-em-software/mycompany/">Mercadapp<a/> as Junior Android Developer
+- 🔭 I’m currently working on <a href = "https://www.linkedin.com/company/mercadapp-soluções-em-software/mycompany/](https://www.linkedin.com/company/xpinc/mycompany/">XP Inc.<a/> as Junior Android Developer
 - 📖 I’m currently learning <b>Kotlin<b/>
 - 👨‍🎓 I’m currently studying Computer Science in UNIFOR(Universidade de Fortaleza)
  <div>
