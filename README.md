@@ -1,7 +1,7 @@
 ## Hi there👋! I’m Léo Baima 
 - 🔭 I’m currently working on <a href = "https://www.linkedin.com/company/xpinc/mycompany/">XP Inc.<a/> as Junior Android Developer
-- 📖 I’m currently learning <b>Kotlin<b/>
-- 👨‍🎓 I’ve concluded Computer Science in UNIFOR(Universidade de Fortaleza)
+- 📖 I’m currently focusing on getting better at Jetpack Compose and studying more of the Android SDK
+- 👨‍🎓 I’ve concluded <b>Computer Science</b> in UNIFOR(Universidade de Fortaleza)
  <div>
   <a href="https://github.com/LeoLBaima" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolbaima&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
