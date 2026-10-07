@@ -1,5 +1,5 @@
 ## Hi there👋! I’m Léo Baima 
-- 🔭 I’m currently working on <a href = "https://www.linkedin.com/company/xpinc/mycompany/">XP Inc.<a/> as Mobile Developer
+- 🔭 I’m currently working on <a href = "https://www.linkedin.com/company/revolut">Revolut<a/> as Mobile Developer
 - 📖 I’m currently focusing on getting better at Jetpack Compose and studying more of the Android SDK
 - 👨‍🎓 I’ve concluded <b>Computer Science</b> in UNIFOR(Universidade de Fortaleza)
  <div>
